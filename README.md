@@ -126,6 +126,7 @@ Besides, you can specify:
 
   
 
+
 ## References
 
 [1] Tao Jiang, Jiahai Wang, Zhiyue Liu, and Yingbiao Ling. 2020. Fusion-Extraction Network for Multimodal Sentiment Analysis. In Advances in Knowledge Discovery and Data Mining - 24th Pacific-Asia Conference, PAKDD 2020, Singapore, May 11-14, 2020. Springer, 785–797. 
