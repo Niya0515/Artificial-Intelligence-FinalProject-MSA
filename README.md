@@ -124,7 +124,17 @@ Besides, you can specify:
 
   * options: 0, 1
 
-  
+ 
+ ## Results
+
+We divide 4000 samples with labels into training, validation and test sets in the ratio of 8:1:1, and report the results of the model on the validation and test sets.
+
+| Features           | Val ACC | Val F1 | Test ACC | Test F1 |
+| ------------------ | ------- | ------ | -------- | ------- |
+| Single-text modal  | 56.00   | 40.21  | 59.25    | 44.09   |
+| Single-image modal | 73.50   | 71.94  | 74.25    | 72.93   |
+| Multimodal         | 75.25   | 73.17  | 77.75    | 75.95   |
+
 
 
 ## References
