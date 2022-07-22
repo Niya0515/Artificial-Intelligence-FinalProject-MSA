@@ -1,8 +1,8 @@
 # Artificial-Intelligence-FinalProject-MSA
 
-This is the repository of the final project for Contemporary Artificial Intelligence Course, dealing with the task of multimodal sentiment analysis.
+This is the repository of the final project for Contemporary Artificial Intelligence Course, dealing with the task of multimodal sentiment analysis. The model architecture is shown in the figure below.
 
-
+<img width="1022" alt="image" src="https://user-images.githubusercontent.com/55529041/180437005-2f0c7046-d69f-4315-b72a-47fae2924816.png">
 
 ## Setup
 
