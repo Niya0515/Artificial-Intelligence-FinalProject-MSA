@@ -1,0 +1,1 @@
+This folder is used to store the original dataset, containing both images and texts.
